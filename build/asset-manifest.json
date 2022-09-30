@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.691142de.css",
+    "main.js": "/static/js/main.fa3d25f6.js",
+    "static/media/danggn-market-logo2.png": "/static/media/danggn-market-logo2.7aa5ff8cb295786e5f76.png",
+    "static/media/danggn-market-logo1.jpeg": "/static/media/danggn-market-logo1.a724159274b8805af61b.jpeg",
+    "static/media/google-logo.png": "/static/media/google-logo.d74131b9cd3ee4fff4ca.png",
+    "index.html": "/index.html",
+    "main.691142de.css.map": "/static/css/main.691142de.css.map",
+    "main.fa3d25f6.js.map": "/static/js/main.fa3d25f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.691142de.css",
+    "static/js/main.fa3d25f6.js"
+  ]
+}
